@@ -12,6 +12,7 @@ Cơ bản:
 10. Sử dụng `filter()` để lọc ra các số lẻ từ mảng `[1, 2, 3, 4, 5, 6, 7]`.
 
 Trung bình:
+
 11. Viết một chương trình đảo ngược một chuỗi.
 12. Tạo một đối tượng đại diện cho một cuốn sách với các thuộc tính như tiêu đề, tác giả và năm xuất bản.
 13. Tạo một hàm nhận vào một mảng số và trả về mảng mới chứa các số lớn hơn 5.
@@ -24,6 +25,7 @@ Trung bình:
 20. Tạo một hàm nhận vào một mảng và trả về mảng đã sắp xếp theo thứ tự giảm dần.
 
 Nâng cao:
+
 21. Tạo một hàm đệ quy để tính giai thừa của một số.
 22. Tạo một hàm đệ quy để tính dãy Fibonacci tại vị trí n.
 23. Tạo một lớp `Person` với các thuộc tính `name`, `age` và phương thức `greet()`.
@@ -36,6 +38,7 @@ Nâng cao:
 30. Sử dụng `async`/`await` để gọi một API và xử lý dữ liệu trả về.
 
 Nâng cao hơn:
+
 31. Tạo một hàm lấy tất cả các khóa từ một đối tượng và in chúng ra.
 32. Sử dụng phương thức `every()` để kiểm tra xem tất cả các phần tử trong mảng có phải là số dương không.
 33. Tạo một hàm nhận vào một chuỗi và trả về chuỗi đã loại bỏ tất cả các ký tự không phải chữ cái.
@@ -48,6 +51,7 @@ Nâng cao hơn:
 40. Tạo một `EventListener` để xử lý sự kiện nhấp chuột vào một nút HTML.
 
 Làm Cho có lệ :)):
+
 41. Tạo một hàm tính tổng các số nguyên tố nhỏ hơn một số n cho trước.
 42. Tạo một hàm đếm số ký tự nguyên âm trong một chuỗi.
 43. Tạo một chương trình mô phỏng trò chơi đoán số (người dùng nhập số và máy đoán).
